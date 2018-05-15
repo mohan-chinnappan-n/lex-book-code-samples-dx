@@ -305,9 +305,13 @@ Test run complete
 ### LTS UI - jasmine
 
 ![LTS in action](img/lex-dx-lts-1.gif)
+<hr/>
+![LTS in action](img/lex-dx-lts-1a.gif)
+
 
 ### LTS UI - mocha
 
 ![LTS in action](img/lex-dx-lts-2.gif)
-
-
+<hr/>
+![LTS in action](img/lex-dx-lts-2a.gif)
+<
