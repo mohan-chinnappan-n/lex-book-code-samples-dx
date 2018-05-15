@@ -304,14 +304,12 @@ Test run complete
 
 ### LTS UI - jasmine
 
-![LTS in action](img/lex-dx-lts-1.gif)
-<hr/>
-![LTS in action](img/lex-dx-lts-1a.gif)
+![LTS in action-jasmine](img/lex-dx-lts-1.gif)
+![LTS in action-jasmine2](img/lex-dx-lts-1a.gif)
 
 
 ### LTS UI - mocha
 
-![LTS in action](img/lex-dx-lts-2.gif)
-<hr/>
-![LTS in action](img/lex-dx-lts-2a.gif)
-<
+![LTS in action-mocha](img/lex-dx-lts-2.gif)
+![LTS in action-mocha2](img/lex-dx-lts-2a.gif)
+
