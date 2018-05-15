@@ -47,16 +47,14 @@
     [
         "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1526412599842,
-            "changeTime": 1526412599842,
-            "contentHash": "498ad76fec767b25335997d87ab622a519e2dc72",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 128,
+            "modifiedTime": 1526415075883,
+            "changeTime": 1526415075883,
+            "contentHash": "df01c03215c4ddd87c0133c6dd888bbe948ce942"
         }
     ],
     [
@@ -92,15 +90,15 @@
     [
         "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1592,
             "modifiedTime": 1526412960199,
             "changeTime": 1526412960199,
-            "isWorkspace": false,
-            "contentHash": "7bb61030a71895295f539465aa018f90e473ef9f"
+            "contentHash": "7bb61030a71895295f539465aa018f90e473ef9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -166,29 +164,29 @@
     [
         "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1048,
             "modifiedTime": 1526412984103,
             "changeTime": 1526412984103,
-            "isWorkspace": false,
-            "contentHash": "7d6eb8d4f5da0128e2e9b924b5a4413b681b804d"
+            "contentHash": "7d6eb8d4f5da0128e2e9b924b5a4413b681b804d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1855,
             "modifiedTime": 1526413001027,
             "changeTime": 1526413001027,
-            "isWorkspace": false,
-            "contentHash": "568d546e1485a0141ffa0fddc496f5cc57b5f8ef"
+            "contentHash": "568d546e1485a0141ffa0fddc496f5cc57b5f8ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -209,15 +207,54 @@
     [
         "/Users/mchinnappan/lts/Greeter",
         {
-            "state": "u",
             "sourcePath": "/Users/mchinnappan/lts/Greeter",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1526412949934,
             "changeTime": 1526412949934,
-            "isWorkspace": true,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe"
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld/HelloWorld.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld/HelloWorld.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526415075884,
+            "changeTime": 1526415075884,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld/HelloWorld.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld/HelloWorld.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 78,
+            "modifiedTime": 1526415075885,
+            "changeTime": 1526415075885,
+            "contentHash": "042b1651d58c05d3ea455d9f8d523d5a7be57247"
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/HelloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526415075885,
+            "changeTime": 1526415075885,
+            "contentHash": "46c36c571c89f1c4837e98d7a657ac8fbc78269f"
         }
     ]
 ]

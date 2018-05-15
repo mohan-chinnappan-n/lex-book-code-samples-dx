@@ -219,6 +219,15 @@ $ git commit -m 'init'
  create mode 100644 force-app/main/default/aura/Greeter/GreeterRenderer.js
  create mode 100644 sfdx-project.json
 
+## pull the code App code  created  using UI
+$ sfdx force:source:pull
+=== Pulled Source
+STATE  FULL NAME                  TYPE                  PROJECT PATH
+─────  ─────────────────────────  ────────────────────  ──────────────────────────────────────────────────────────────
+Add    HelloWorld/HelloWorld.app  AuraDefinitionBundle  force-app/main/default/aura/HelloWorld/HelloWorld.app-meta.xml
+Add    HelloWorld/HelloWorld.app  AuraDefinitionBundle  force-app/main/default/aura/HelloWorld/HelloWorld.app
+
+
 ## install LTS
 $ sfdx force:lightning:test:install
 Waiting for the package install request to complete. Status = IN_PROGRESS
