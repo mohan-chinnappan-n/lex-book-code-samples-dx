@@ -302,7 +302,12 @@ Test run complete
 
 ```
 
-### LTS UI
+### LTS UI - jasmine
 
 ![LTS in action](img/lex-dx-lts-1.gif)
+
+### LTS UI - mocha
+
+![LTS in action](img/lex-dx-lts-2.gif)
+
 
