@@ -249,3 +249,60 @@ Successfully installed package [04tJ00000006jC9]
 ## Demo
 ![demo](./img/lex-dx-build-1.gif)
 
+
+## Lightning Testing Service
+
+```bash
+$ sfdx force:lightning:test:run -a jasmineTests.app
+Invoking Lightning tests...
+Preparing test results...
+=== Test Results
+TEST NAME                                                                                                                                                                 OUTCOME  MESSAGE                             RUNTIME (MS)
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  ───────  ──────────────────────────────────  ────────────
+A simple failing test : fails when false does not equal true                                                                                                              Skip      # SKIP disabled by xit or similar
+A simple passing test : verifies that true is always true                                                                                                                 Pass                                         23
+Lightning Component Testing Examples : c:egAttributeTypes : sets component attributes of various types and values                                                         Pass                                         86
+Lightning Component Testing Examples : c:egClientSideAction : adds items to a list when the client-side action is invoked                                                 Pass                                         132
+Lightning Component Testing Examples : c:egComponentMethod : updates an attribute value when a method is invoked on the component's interface                             Pass                                         65
+Lightning Component Testing Examples : c:egConditionalUI : renders only the "truthy" (conditional) portion of the user interface                                          Pass                                         72
+Lightning Component Testing Examples : c:egEventHandling : handles component- and application-level events                                                                Pass                                         77
+Lightning Component Testing Examples : c:egFacet : renders the expected content when used as a facet                                                                      Pass                                         73
+Lightning Component Testing Examples : c:egGlobalValueProvider : renders a custom label                                                                                   Pass                                         67
+Lightning Component Testing Examples : c:egRenderElement : renders specific static text                                                                                   Pass                                         69
+Lightning Component Testing Examples : c:egServerSideActionCallback : updates with provided data when action callback is invoked directly                                 Pass                                         15
+Lightning Component Testing Examples : c:egServerSideActionCallback : updates with provided data when invoked via a mocked server action using Jasmine spies              Pass                                         12
+Lightning Component Testing Examples : c:egServerSideActionCallback : [Discouraged: brittle, slow, side-effects] receives server data when server-side action is invoked  Pass                                         242
+The Lightning Data Service Examples : c:egLdsView : handles errors with a message when there's an error with data access                                                  Pass                                         384
+The Lightning Data Service Examples : c:egLdsView : loads a record and logs a success message when a record is reloaded                                                   Pass                                         438
+The Lightning Data Service Examples : c:egLdsView : updates data held in the client-side component when a record is saved                                                 Pass                                         754
+The Lightning Data Service Examples : c:egLdsView : updates the component and loads record data when a record is created                                                  Pass                                         1909
+The Lightning Data Service Examples : c:egLdsView : updates the component with a message when a record is deleted                                                         Pass                                         1278
+
+=== Test Summary
+NAME                 VALUE
+───────────────────  ───────────────────────────────────────────────────────────
+Outcome              Passed
+Tests Ran            18
+Passing              17
+Failing              0
+Skipped              1
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      May 15, 2018 4:21 PM
+Test Execution Time  5706 ms
+Test Total Time      5706 ms
+Command Time         16227 ms
+Hostname             https://data-efficiency-3134-dev-ed.cs94.my.salesforce.com
+Org Id               00D0R0000008mh7UAA
+Username             test-zujqkdf9czuh@example.com
+
+Test run complete
+~/lts/Greeter:
+
+
+```
+
+### LTS UI
+
+![LTS in action](img/lex-dx-lts-1.gif)
+
