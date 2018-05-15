@@ -228,3 +228,4 @@ Successfully installed package [04tJ00000006jC9]
 
 
 ```
+![demo](./img/lex-dx-build-1.gif)
