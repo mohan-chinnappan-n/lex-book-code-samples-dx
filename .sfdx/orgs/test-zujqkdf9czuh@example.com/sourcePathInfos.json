@@ -1,0 +1,223 @@
+[
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1526412175543,
+            "changeTime": 1526412175543,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1526412175543,
+            "changeTime": 1526412175543,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1526412175543,
+            "changeTime": 1526412175543,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1526412599842,
+            "changeTime": 1526412599842,
+            "contentHash": "498ad76fec767b25335997d87ab622a519e2dc72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1526412664625,
+            "changeTime": 1526412664625,
+            "contentHash": "1ab1812f26f4721f6fd505489ff1715f62a712e9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.auradoc",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1526412599845,
+            "changeTime": 1526412599845,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1592,
+            "modifiedTime": 1526412960199,
+            "changeTime": 1526412960199,
+            "isWorkspace": false,
+            "contentHash": "7bb61030a71895295f539465aa018f90e473ef9f"
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1526412599843,
+            "changeTime": 1526412599843,
+            "contentHash": "528c8f0d5768ae0b713a496c6515fb8f0c41df37",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.css",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1526412599844,
+            "changeTime": 1526412599844,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.design",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1526412599845,
+            "changeTime": 1526412599845,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.svg",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/Greeter.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1526412599845,
+            "changeTime": 1526412599845,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1048,
+            "modifiedTime": 1526412984103,
+            "changeTime": 1526412984103,
+            "isWorkspace": false,
+            "contentHash": "7d6eb8d4f5da0128e2e9b924b5a4413b681b804d"
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1855,
+            "modifiedTime": 1526413001027,
+            "changeTime": 1526413001027,
+            "isWorkspace": false,
+            "contentHash": "568d546e1485a0141ffa0fddc496f5cc57b5f8ef"
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterRenderer.js",
+        {
+            "sourcePath": "/Users/mchinnappan/lts/Greeter/force-app/main/default/aura/Greeter/GreeterRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1526412599844,
+            "changeTime": 1526412599844,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mchinnappan/lts/Greeter",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mchinnappan/lts/Greeter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1526412949934,
+            "changeTime": 1526412949934,
+            "isWorkspace": true,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe"
+        }
+    ]
+]
