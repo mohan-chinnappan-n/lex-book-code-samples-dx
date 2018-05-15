@@ -228,4 +228,11 @@ Successfully installed package [04tJ00000006jC9]
 
 
 ```
+## DevHub101
+![DevHub101](img/lex-dx-devhub101-1.png)
+
+## GreeterSORG1
+![GreeterSORG1](img/lex-dx-GreeterSORG1-1.png)
+
+## Demo
 ![demo](./img/lex-dx-build-1.gif)
