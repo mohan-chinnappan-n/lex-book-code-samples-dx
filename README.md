@@ -239,7 +239,14 @@ Waiting for the package install request to complete. Status = IN_PROGRESS
 Successfully installed package [04tJ00000006jC9]
 
 
+
+
 ```
+
+## LTS resources installed
+
+![LTS resources](img/lex-lts-resources-1.png)
+
 ## DevHub101
 ![DevHub101](img/lex-dx-devhub101-1.png)
 
