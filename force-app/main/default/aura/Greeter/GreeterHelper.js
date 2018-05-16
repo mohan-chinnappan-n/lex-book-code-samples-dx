@@ -17,6 +17,7 @@
         var rand = Math.floor((Math.random() * 6 ) );
         // update the button label with the new lang greeting
         component.set("v.greeting", newGreetings[rand]);
+        
 
     },
 
