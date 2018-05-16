@@ -314,7 +314,7 @@ Test run complete
 ![LTS in action-mocha2](img/lex-dx-lts-2a.gif)
 
 ## Editing code with VS Code
-![Code Editing](img/ex-dx-vscode-2.gif)
+![Code Editing](img/lex-dx-vscode-2.gif)
 
 
 
